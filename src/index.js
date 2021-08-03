@@ -9,7 +9,7 @@ const server = http.createServer((req, res) => {
   res.end('Hello World!');
 });
  
-console.log('Web server running at http://%s:%s',host,2989); // port ); add second magic number
+console.log('Web server running at http://%s:%s',host,2939); // port ); add second magic number
 
 server.listen(port, host, () => {
    console.log('Web server running at http://%s:%s',host,2999); // port );
