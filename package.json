@@ -1,0 +1,19 @@
+{
+  "name": "actionstest",
+  "version": "1.0.0",
+  "description": "GitHub Actions test with node Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRobertsDS/ActionsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRobertsDS/ActionsTest/issues"
+  },
+  "homepage": "https://github.com/JRobertsDS/ActionsTest#readme"
+}
